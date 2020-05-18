@@ -30,7 +30,7 @@ header a {
 
 header nav {
   float: right;
-  margin: 10px 0;
+  margin: 7px 0;
 }
 
 header nav ul li {
@@ -40,7 +40,7 @@ header nav ul li {
 header nav ul li a {
   margin: 0 30px;
   font-weight: lighter;
-  font size: 22px;
+  font-size: 22px;
 }
 
 footer {
@@ -58,7 +58,7 @@ footer h2 {
 footer div {
   float: right;
   line-height: 1.5;
-  text align: right;
+  text-align: right;
 }
 
 footer a {
@@ -90,7 +90,7 @@ section {
 }
 
 .hero-form h3 {
-  font size: 30px;
+  font-size: 30px;
   margin: 0px;
 }
 
