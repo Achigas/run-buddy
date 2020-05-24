@@ -12,3 +12,5 @@ https://Achigas.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Alex Chigas
+
+### ©️2019 Run Buddy, Inc 
