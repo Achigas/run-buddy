@@ -21,7 +21,7 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline-block;
+    display: inline;
 }
 
 header a {
@@ -35,7 +35,7 @@ header nav {
 }
 
 header nav ul li {
-  display: inline-block;
+  display: inline;
 }
 
 header nav ul li a {
